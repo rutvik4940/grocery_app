@@ -85,7 +85,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           const SizedBox(
                             height: 15,
                           ),
-                          Image.asset("assets/images/vagetable.png",
+                          Image.asset("assets/images/Fruits-and-Vegetables-removebg-preview.png",
                               height: 120, fit: BoxFit.cover),
                         ],
                       ),
@@ -106,8 +106,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           const SizedBox(
                             height: 15,
                           ),
-
-                          Image.asset("assets/images/fastfood.png",
+                          Image.asset("assets/images/fastfood-removebg-preview.png",
                               height: 120, fit: BoxFit.cover),
                         ],
                       ),
@@ -132,7 +131,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           const SizedBox(
                             height: 15,
                           ),
-                          Image.asset("assets/images/dairy.png",
+                          Image.asset("assets/images/dairy-removebg-preview.png",
                               height: 120, fit: BoxFit.cover),
                         ],
                       ),
@@ -153,7 +152,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           const SizedBox(
                             height: 15,
                           ),
-                          Image.asset("assets/images/home_care.png",
+                          Image.asset("assets/images/home-removebg-preview.png",
                               height: 120, fit: BoxFit.cover),
                         ],
                       ),
